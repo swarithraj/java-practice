@@ -16,3 +16,7 @@ This repository contains my Java programming practice as I build my coding and p
 - `biggest.java` — Finds the largest digit in a number.
 
 I will continue updating this repository as I learn Java and data structures and algorithms.
+## Day 3
+- Reverse Number
+- Palindrome Number
+- Armstrong Number
