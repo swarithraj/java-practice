@@ -92,4 +92,17 @@ I am learning Java and Data Structures & Algorithms (DSA) through daily coding p
 
 **12 days of Java practice covered.**
 
-I will continue updating this repository as I learn new concepts and solve more coding problems.
+### Day 13 — Array Frequency and Majority Element
+
+- Maximum Consecutive Ones — `maxconsecutiveones.java` (Easy)
+- Find the Single Number — `singlenumber.java` (Easy)
+- Find the Majority Element — `majorityelement.java` (Medium)
+
+**Concepts Learned:**
+- Counting consecutive elements
+- Frequency counting using nested loops
+- Finding unique elements
+- Finding the majority element
+- Understanding O(n) and O(n²) time complexity
+
+**Progress:** Day 13 completed — 3/3 problems solved.
