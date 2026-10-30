@@ -106,3 +106,21 @@ I am learning Java and Data Structures & Algorithms (DSA) through daily coding p
 - Understanding O(n) and O(n²) time complexity
 
 **Progress:** Day 13 completed — 3/3 problems solved.
+## Day 14 - Array Problem Solving
+
+### Problems Solved
+1. Union of Two Arrays (Easy) - `arrayunion.java`
+2. Two Sum (Easy) - `twosum.java`
+3. Maximum Subarray Sum (Medium) - `maxsubarraysum.java`
+
+### Concepts Practiced
+- Nested loops and array traversal
+- Duplicate detection using a temporary array
+- Finding pairs with a target sum
+- Calculating maximum contiguous subarray sum
+- Using methods, return statements, and edge-case handling
+
+### Time Complexity
+- Union of Two Arrays: O((n + m)^2)
+- Two Sum: O(n^2)
+- Maximum Subarray Sum: O(n^2)
