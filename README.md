@@ -124,3 +124,28 @@ I am learning Java and Data Structures & Algorithms (DSA) through daily coding p
 - Union of Two Arrays: O((n + m)^2)
 - Two Sum: O(n^2)
 - Maximum Subarray Sum: O(n^2)
+  ## Day 15 - Array Problem Solving
+
+### Problems
+1. **Intersection of Two Arrays (Easy)** - `arrayintersection.java`
+2. **Best Time to Buy and Sell Stock (Easy)** - `stockprofit.java`
+3. **Maximum Product of Two Elements (Easy)** - `maxproduct.java`
+
+### Concepts Covered
+- Finding common elements between two arrays
+- Removing duplicate elements
+- Using boolean variables for condition checking
+- Calculating maximum stock profit
+- Finding the maximum product of two elements
+- Nested loops and array indexing
+- Time and space complexity
+
+### Time Complexity
+- Intersection of Two Arrays: O(nm + n²)
+- Best Time to Buy and Sell Stock: O(n²)
+- Maximum Product of Two Elements: O(n²)
+
+### Progress
+- Intersection of Two Arrays: Completed
+- Stock Profit: Solution saved; independent practice pending
+- Maximum Product: Solution saved; independent practice pending
