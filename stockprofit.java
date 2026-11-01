@@ -5,22 +5,15 @@ public class stockprofit {
     static void maxProfit(int[] a) {
 
         int maxprofit = 0;
-
-        for (int i = 0; i < a.length; i++) {
-
-            for (int j = i + 1; j < a.length; j++) {
-
-                
-                int profit = a[j] - a[i];
-
-                
-                if (profit > maxprofit) {
-                    maxprofit = profit;
+        for(int i=0;i<a.length;i++){
+            for(int j=i+1;j<a.length;j++){
+                int profit=a[j]-a[i];
+                if(maxprofit<profit){
+                    maxprofit=profit;
                 }
             }
         }
-
-        System.out.println(maxprofit);
+       System.out.println(maxprofit);
     }
 
     public static void main(String[] args) {
