@@ -149,3 +149,51 @@ I am learning Java and Data Structures & Algorithms (DSA) through daily coding p
 - Intersection of Two Arrays: Completed
 - Stock Profit: Solution saved; independent practice pending
 - Maximum Product: Solution saved; independent practice pending
+### Progress
+- Intersection of Two Arrays: Completed
+- Best Time to Buy and Sell Stock: Completed independently
+- Maximum Product of Two Elements: Completed independently
+
+**Day 15 Status: Completed — 3/3 problems.**
+
+---
+
+## Day 16 — Array Problem Solving
+
+### Problems Covered
+1. **Equilibrium Index (Easy)** — `EquilibriumIndex.java`
+2. **Second Largest Distinct Element (Easy)** — `SecondLargest.java`
+3. **Rotate Array Right by K Positions (Medium)** — `RotateArray.java`
+
+### Concepts Practiced
+- Calculating left and right sums of an array
+- Finding an equilibrium index
+- Using boolean flags to track valid candidates
+- Handling duplicate and negative elements
+- Finding the second largest distinct element without sorting
+- Rotating an array using shifting operations
+- Understanding nested loops and time complexity
+
+### Time Complexity
+- Equilibrium Index: O(n²)
+- Second Largest Distinct Element: O(n)
+- Rotate Array Right by K Positions: O(n × k), after reducing k modulo n
+
+### Progress
+- Equilibrium Index: Completed independently
+- Second Largest Distinct Element: Completed with guidance
+- Rotate Array Right by K Positions: Solution provided
+
+**Day 16 Status: All 3 problems covered; independent array rotation practice pending.**
+
+---
+
+## Overall Progress
+
+**16 days of Java programming and DSA practice covered.**
+
+### Next Goals
+- Improve array problem-solving skills
+- Learn optimized O(n) approaches
+- Practice new interview-style problems
+- Continue daily Java and DSA practice
