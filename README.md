@@ -197,3 +197,22 @@ I am learning Java and Data Structures & Algorithms (DSA) through daily coding p
 - Learn optimized O(n) approaches
 - Practice new interview-style problems
 - Continue daily Java and DSA practice
+## Day 17 - Arrays
+
+1. Leaders in an Array (Easy)
+   - Solved with corrections
+
+2. Longest Consecutive Sequence (Medium)
+   - Solution reviewed
+   - Independent practice pending
+
+3. Maximum Sum Subarray of Size K (Medium)
+   - Sliding Window technique
+   - Solution reviewed
+   - Independent practice pending
+
+### Concepts
+- Nested loops
+- Sorting and consecutive sequences
+- Sliding window
+- Time and space complexity
