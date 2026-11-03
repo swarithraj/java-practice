@@ -216,3 +216,16 @@ I am learning Java and Data Structures & Algorithms (DSA) through daily coding p
 - Sorting and consecutive sequences
 - Sliding window
 - Time and space complexity
+## Day 18 - Arrays
+1. First Non-Repeating Element (Easy)
+   - Solved using nested loops
+2. Product of Array Except Self (Medium)
+   - Solved using nested loops without division
+3. Count Subarrays With Sum K (Medium)
+   - Solved using running sum and nested loops
+
+### Concepts
+- Frequency counting
+- Array products
+- Contiguous subarrays
+- Time and space complexity
