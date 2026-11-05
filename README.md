@@ -229,3 +229,23 @@ I am learning Java and Data Structures & Algorithms (DSA) through daily coding p
 - Array products
 - Contiguous subarrays
 - Time and space complexity
+## Day 19 - Strings
+
+1. Reverse Words in a String (Easy)
+   - Code uploaded
+   - Independent practice pending
+
+2. Check Anagrams (Easy)
+   - Code uploaded
+   - Independent practice pending
+
+3. Longest Substring Without Repeating Characters (Medium)
+   - Code uploaded
+   - Independent practice pending
+
+### Concepts
+- String methods
+- Character arrays
+- Sorting
+- HashSet
+- Sliding window
