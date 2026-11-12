@@ -3,12 +3,10 @@ import java.util.Scanner;
 public class reversearray {
 
     static void reverseArray(int[] a) {
-
-        for (int i = a.length - 1; i >= 0; i--) {
-            System.out.print(a[i] + " ");
+        for(int i=a.length-1;i>=0;i--){
+            System.out.println(a[i]);
         }
-
-    }
+        }
 
     public static void main(String[] args) {
 
