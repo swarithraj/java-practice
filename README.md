@@ -249,3 +249,19 @@ I am learning Java and Data Structures & Algorithms (DSA) through daily coding p
 - Sorting
 - HashSet
 - Sliding window
+### Day 20 — Arrays, Prefix Sum, HashSet & Two Pointers
+
+**Problems completed:**
+1. Range Sum Query — Easy
+2. First Repeating Element — Easy
+3. Reverse Array In-Place — Easy
+
+**Concepts practiced:**
+- Prefix Sum for efficient range sum queries
+- HashSet for duplicate detection
+- Two Pointers for reversing arrays in-place
+- Swapping without a temporary variable
+
+**Progress:** 3/3 problems completed.
+
+**Java files:** `RangeSumQuery.java`, `FirstRepeating.java`, `ReversingArray.java`
