@@ -265,3 +265,22 @@ I am learning Java and Data Structures & Algorithms (DSA) through daily coding p
 **Progress:** 3/3 problems completed.
 
 **Java files:** `RangeSumQuery.java`, `FirstRepeating.java`, `ReversingArray.java`
+### Day 21 - HashMap and Frequency Counting
+
+**Problems completed:**
+1. Most Frequent Element - Easy
+2. First Non-Repeating Character - Easy
+3. Check Whether Two Arrays Have the Same Frequencies - Easy
+
+**Concepts practiced:**
+- HashMap for frequency counting
+- getOrDefault(), put(), and get()
+- Character frequency counting
+- Comparing HashMaps using equals()
+- Handling equal frequencies using Math.min()
+- Finding the first unique character
+
+**Progress:** 3/3 problems completed.
+
+**Java files:** `MostFrequent.java`, `FirstUniqueCharacter.java`, `SameFrequencies.java`
+
