@@ -284,3 +284,22 @@ I am learning Java and Data Structures & Algorithms (DSA) through daily coding p
 
 **Java files:** `MostFrequent.java`, `FirstUniqueCharacter.java`, `SameFrequencies.java`
 
+### Day 22 - HashSet and Array Operations
+
+**Problems completed:**
+1. Contains Duplicate - Easy
+2. Intersection of Two Arrays - Easy
+3. Longest Consecutive Sequence - Medium
+
+**Concepts practiced:**
+- HashSet for storing unique elements
+- Detecting duplicate elements efficiently
+- Finding common elements between two arrays
+- Using HashSet for membership checking
+- Finding the longest consecutive sequence
+- Identifying starting elements of consecutive sequences
+- Optimizing array operations using HashSet
+
+**Progress:** 3/3 problems completed.
+
+**Java files:** `ContainsDuplicate1.java`, `IntersectionArrays.java`, `LongestConsecutive2.java`
