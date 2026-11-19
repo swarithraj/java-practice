@@ -303,3 +303,35 @@ I am learning Java and Data Structures & Algorithms (DSA) through daily coding p
 **Progress:** 3/3 problems completed.
 
 **Java files:** `ContainsDuplicate1.java`, `IntersectionArrays.java`, `LongestConsecutive2.java`
+### Day 23 - Stack
+
+**Problems completed:**
+1. Build Stack Using Array - Easy
+2. Balanced Brackets - Easy
+3. Reverse String Using Stack - Easy
+
+**Concepts practiced:**
+- Stack implementation using arrays
+- LIFO principle
+- Push, Pop and Peek operations
+- Balanced bracket validation
+- String reversal using a stack
+- StringBuilder
+### Day 23 - Stack
+
+**Problems completed:**
+1. Build Stack Using Array - Easy
+2. Balanced Brackets - Easy
+3. Reverse String Using Stack - Easy
+
+**Concepts practiced:**
+- Stack implementation using arrays
+- LIFO principle
+- Push, Pop and Peek operations
+- Balanced bracket validation
+- String reversal using a stack
+- StringBuilder
+
+**Progress:** 3/3 problems completed.
+
+**Java files:** `Main.java`, `Main1.java`, `Main2.java`
