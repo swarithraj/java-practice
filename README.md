@@ -329,6 +329,33 @@ I am learning Java and Data Structures & Algorithms (DSA) through daily coding p
 - LIFO principle
 - Push, Pop and Peek operations
 - Balanced bracket validation
+
+  
+### Day 24 - Queue
+
+**Problems:**
+1. Implement Queue Using Array - Easy
+2. Reverse a Queue - Easy
+3. Implement Circular Queue - Medium
+
+**Concepts to Practice:**
+- Queue data structure
+- FIFO (First In, First Out)
+- Enqueue and Dequeue operations
+- Front and Rear pointers
+- Queue implementation using arrays
+- Reversing a Queue using Stack
+- Circular Queue
+- Modulo operator (%) for circular indexing
+- Overflow and Underflow conditions
+
+**Progress:** 0/3 problems independently completed.
+
+**Java Files:**
+- `Main.java`
+- `ReverseQueue.java`
+- `CircularQueue.java`
+
 - String reversal using a stack
 - StringBuilder
 
